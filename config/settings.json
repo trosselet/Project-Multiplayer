@@ -1,0 +1,26 @@
+{
+    "projects": {
+        "Client": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "40650577-2B21-43F3-62B7-76AD263760C7",
+            "lib": false,
+            "pch": true,
+            "vcpkg": false,
+            "window": true
+        },
+        "Server": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "63604A58-59AB-2CF2-058D-41DB424649F3",
+            "lib": false,
+            "pch": true,
+            "vcpkg": false,
+            "window": false
+        }
+    },
+    "solution_guid": "62A24728-0A51-611A-64A7-4834011C6129",
+    "solution_name": "MultiplayerGame",
+    "startup_project": "Client",
+    "version": "1.17.3"
+}
