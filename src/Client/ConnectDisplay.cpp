@@ -4,7 +4,7 @@
 ConnectDisplay::ConnectDisplay()
     : window(sf::VideoMode(400, 300), "Connexion au Serveur"), ipInput(""), portInput(""), nameInput("")
 {
-    if (!font.loadFromFile("../../../res/Client/Arial.ttf"))
+    if (!font.loadFromFile("../../res/Client/Arial.ttf"))
     {
         throw std::runtime_error("Impossible de charger la police arial.ttf");
     }

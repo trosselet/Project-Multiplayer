@@ -1,2 +1,1 @@
-cd ../..
-SolutionGen.exe -make Project-Multiplayer
+SolutionGenerator.exe -make ../ 
